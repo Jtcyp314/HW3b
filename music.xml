@@ -1,0 +1,143 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type="text/css" href="musicLib.css"?>
+<myMusicLibrary>
+
+  <gig>Set List for Jumbo Top Ten Concert</gig>
+
+  <!--Song 1-->
+  <track>
+    <title>Shape of You</title>
+
+    <artist>Artist: Ed Sheeran</artist>
+
+    <genre>Genre: Pop</genre>
+
+    <released>Released: 01-06-2017</released>
+  </track>
+
+
+
+
+  <!--Song 2-->
+  <track>    
+    <title>One Dance</title>
+    
+    <artist>Artist: Drake ft. Wizkid and Kyla</artist>
+
+    <genre>Genre: Pop</genre>
+
+    <released>Released: 04-05-2016</released>
+  </track>
+
+
+
+  <!--Song 3-->
+  <track>    
+    <title>Closer</title>
+    
+    <artist>Artist: The Chainsmokers ft. Halsey</artist>
+
+    <genre>Genre: Pop</genre>
+
+    <released>Released: 06-29-2016</released>
+  </track>
+
+
+
+  <!--Song 4-->
+    <track>
+    <title>Rockstar</title>
+
+    <artist>Artist: Post Malone ft. 21 Savage</artist>
+
+    <genre>Genre: Hip Hop</genre>
+
+    <released>Released: 07-15-2017</released>
+  </track>
+
+
+
+  <!--Song 5-->
+  <track>   
+    <title>Thinking Out Loud</title>
+
+    <artist>Artist: Ed Sheera</artist>
+
+    <genre>Genre: Blue Eyed Soul</genre>
+
+    <released>Released: 07-24-2017</released>
+  </track>
+
+
+
+
+  <!--Song 6-->
+  <track>     
+    <title>Lean On</title>
+
+    <artist>Artist: Major Lazer and DJ Snake ft. MØ</artist>
+
+    <genre>Genre: EDM</genre>
+
+    <released>Released: 03-02-2015</released>
+  </track> 
+
+
+
+
+  <!--Song 7-->
+  <track>  
+    <title>Despacito (Remix)</title>
+
+    <artist>Artist: Luis Fonsi and Daddy Yankee ft. Justin Beiber</artist>
+
+    <genre>Genre: Latin Pop</genre>
+
+    <released>Released: 04-17-2017</released>
+  </track> 
+
+
+
+
+
+  <!--Song 8-->
+  <track>  
+    <title>Love Yourself</title>
+
+    <artist>Artist: Jusin Beiber</artist>
+
+    <genre>Genre: Acoustic Pop</genre>
+
+    <released>Released: 10-07-2015</released>
+  </track> 
+
+
+
+
+  <!--Song 9-->
+  <track>      
+    <title>Sorry</title>
+
+    <artist>Artist: Justin Beiber</artist>
+
+    <genre>Genre: Dancehall-Pop</genre>
+
+    <released>Released: 08-22-2015</released>
+  </track> 
+
+
+
+  <!--Song 10-->
+  <track>     
+    <title>Don't Let Me Down</title>
+
+    <artist>Artist: The Chainsmokers ft. Daya</artist>
+
+    <genre>Genre: EDM</genre>
+
+    <released>Released: 02-05-2016</released>
+  </track>
+
+
+
+</myMusicLibrary>
