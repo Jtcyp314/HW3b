@@ -1,0 +1,21 @@
+myMusicLibrary
+{
+  background-color: #3E8EDE;  
+  background-image: url("jumboLogo.png");
+  background-repeat: no-repeat;
+  background-position: left top;
+  max-width:100%;
+  height:auto;
+}
+
+
+
+track, gig
+{ 
+  color: #512C1D;
+  padding: 15px;
+  display:block;
+  text-align: center;
+}
+
+
