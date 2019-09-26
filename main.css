@@ -19,3 +19,20 @@ track, gig
 }
 
 
+
+gig
+{
+  font-size: 50px;
+  text-decoration: underline;
+}
+
+artist, title, released, genre
+{
+  display: block;
+  font-size: 15px;
+}
+
+title
+{
+  font-size:40px;
+}
